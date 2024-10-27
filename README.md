@@ -1,4 +1,4 @@
-# Readme para o Código de Classificação de Dados Meteorológicos
+# Chuva na Australia
 
 Este código em Python utiliza técnicas de aprendizado de máquina para analisar e prever dados meteorológicos, com foco na previsão de chuva na Austrália. A seguir, apresentamos uma descrição detalhada das principais etapas e componentes do código.
 
